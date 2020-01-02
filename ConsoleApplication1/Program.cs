@@ -10,7 +10,10 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Test Github");
+            Console.WriteLine("Test Github  2020年1月2日 20:00:20");
+
+
+            Console.WriteLine("测试修改1  2020年1月2日 20:31:25");
         }
     }
 }
